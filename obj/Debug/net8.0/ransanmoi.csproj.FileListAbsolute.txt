@@ -1,0 +1,4 @@
+E:\Codegym\c# start\ransanmoi\obj\Debug\net8.0\ransanmoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\ransanmoi\obj\Debug\net8.0\ransanmoi.AssemblyInfoInputs.cache
+E:\Codegym\c# start\ransanmoi\obj\Debug\net8.0\ransanmoi.AssemblyInfo.cs
+E:\Codegym\c# start\ransanmoi\obj\Debug\net8.0\ransanmoi.csproj.CoreCompileInputs.cache
